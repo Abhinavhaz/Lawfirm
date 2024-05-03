@@ -1,0 +1,29 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    background: #191e1e;
+    margintop: 100px;
+    text-align: center;
+  }
+  
+  .law-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 564px;
+    height: 450px;
+    top: 1084px;
+    left: 807px;
+  }
+  
+  .left-content {
+    width: 557px;
+    height: 58px;
+    top: 1081px;
+    left: 150px;
+  }
+  

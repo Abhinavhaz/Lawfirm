@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  font-family:Inter;
+  /* text-align: center; */
+  background-color: #191e1e;
+  /* background-color:black; */
 }
 
 .App-logo {
